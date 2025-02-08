@@ -18,7 +18,6 @@ class Solution:
             if s[i].isdigit():
                 digit = int(s[i])
 
-                # Corrected overflow checks
                 if result > 214748364 or (result == 214748364 and digit > 7):
                     if sign == 1:
                         return 2147483647
