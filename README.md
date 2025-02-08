@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
