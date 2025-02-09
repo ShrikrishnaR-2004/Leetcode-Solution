@@ -63,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
