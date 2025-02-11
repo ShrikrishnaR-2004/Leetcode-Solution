@@ -5,11 +5,9 @@ class Solution:
         """
         count=0
         i=0
-        while i<len(nums):
-            if nums[i]==0:
-                count+=1
-                nums.pop(i)
-            else:
+        for j in range(len(nums)):
+            if nums[j]!=0:
+                nums[i]=nums[j]
                 i+=1
-        nums.extend([0]*count)
-                
+        for j in range(i,len(nums)):
+            nums[j]=0
