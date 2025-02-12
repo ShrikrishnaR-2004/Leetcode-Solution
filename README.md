@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0507-perfect-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3447-clear-digits) |
