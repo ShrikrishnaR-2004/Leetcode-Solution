@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
