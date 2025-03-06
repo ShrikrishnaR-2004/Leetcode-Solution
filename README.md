@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2551-apply-operations-to-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
