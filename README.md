@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2551-apply-operations-to-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Dynamic Programming
 |  |
