@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1656-count-good-triplets) |
