@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1656-count-good-triplets) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2634-minimum-common-value](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3447-clear-digits) |
 ## Simulation
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
