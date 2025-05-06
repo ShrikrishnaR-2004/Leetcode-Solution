@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0792-binary-search) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
