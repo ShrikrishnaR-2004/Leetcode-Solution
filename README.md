@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1656-count-good-triplets) |
+| [2048-build-array-from-permutation](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2551-apply-operations-to-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3447-clear-digits) |
 ## Tree
