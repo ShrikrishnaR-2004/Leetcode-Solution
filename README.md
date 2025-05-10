@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0792-binary-search](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
