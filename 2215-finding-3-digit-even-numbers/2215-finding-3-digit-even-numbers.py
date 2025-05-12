@@ -1,8 +1,8 @@
 from collections import Counter
-
+from typing import List
 class Solution:
     def findEvenNumbers(self, digits: list[int]) -> list[int]:
-        even_numbers = set()
+        even_numbers = []
         digit_counts = Counter(digits)
 
         for i in range(100, 1000, 2):
@@ -14,6 +14,6 @@ class Solution:
                     Flag = False
                     break
             if Flag:
-                even_numbers.add(i)
+                even_numbers.append(i)
 
-        return sorted(list(even_numbers))
+        return sorted(even_numbers)
