@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3447-clear-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3636-check-balanced-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
 |  |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Linked List
 |  |
 | ------- |
