@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [3639-zero-array-transformation-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3639-zero-array-transformation-i) |
 ## Counting Sort
 |  |
 | ------- |
