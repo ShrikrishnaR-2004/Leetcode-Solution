@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3647-zero-array-transformation-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3639-zero-array-transformation-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3647-zero-array-transformation-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -358,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3647-zero-array-transformation-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
