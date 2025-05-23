@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3647-zero-array-transformation-iii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Memoization
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0389-find-the-difference) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Stack
 |  |
 | ------- |
@@ -270,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
