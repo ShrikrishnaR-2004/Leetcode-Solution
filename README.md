@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2154-minimum-moves-to-convert-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2154-minimum-moves-to-convert-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2154-minimum-moves-to-convert-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2154-minimum-moves-to-convert-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
