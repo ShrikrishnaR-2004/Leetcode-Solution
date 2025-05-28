@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
