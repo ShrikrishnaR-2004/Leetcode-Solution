@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0697-degree-of-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1293-three-consecutive-odds) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0500-keyboard-row) |
+| [0697-degree-of-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
