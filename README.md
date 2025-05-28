@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2154-minimum-moves-to-convert-string) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3194-find-words-containing-character) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0169-majority-element) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
