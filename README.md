@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2128-reverse-prefix-of-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2128-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2634-minimum-common-value) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2128-reverse-prefix-of-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2128-reverse-prefix-of-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2154-minimum-moves-to-convert-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
