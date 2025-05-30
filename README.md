@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0233-number-of-digit-one](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 ## Matrix
 |  |
 | ------- |
