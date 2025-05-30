@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
 ## String
 |  |
