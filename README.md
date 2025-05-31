@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0792-binary-search) |
 | [1044-find-common-characters](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1044-find-common-characters) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
