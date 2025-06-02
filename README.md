@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1656-count-good-triplets) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 | [2048-build-array-from-permutation](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -457,4 +458,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
+## Union Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
