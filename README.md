@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0389-find-the-difference) |
+| [2659-number-of-even-and-odd-bits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2659-number-of-even-and-odd-bits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Stack
 |  |
