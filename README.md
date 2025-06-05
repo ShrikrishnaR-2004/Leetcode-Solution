@@ -357,12 +357,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Binary Tree
 |  |
@@ -486,10 +488,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0207-course-schedule) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
