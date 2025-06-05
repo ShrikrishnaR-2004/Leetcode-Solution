@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
 | [0837-most-common-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0837-most-common-word) |
 | [1044-find-common-characters](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1044-find-common-characters) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1508-longest-happy-prefix](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1508-longest-happy-prefix) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
