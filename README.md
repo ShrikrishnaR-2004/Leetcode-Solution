@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0696-count-binary-substrings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0696-count-binary-substrings) |
