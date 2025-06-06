@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
+| [1086-divisor-game](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0747-min-cost-climbing-stairs) |
+| [1086-divisor-game](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -510,4 +512,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0207-course-schedule) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
