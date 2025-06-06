@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
+| [0747-min-cost-climbing-stairs](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0837-most-common-word) |
 | [1044-find-common-characters](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1044-find-common-characters) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
