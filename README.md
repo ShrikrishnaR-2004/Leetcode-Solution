@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0207-course-schedule) |
+| [0386-lexicographical-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
 | ------- |
