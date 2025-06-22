@@ -11,7 +11,7 @@ class Solution:
                 if index < n:
                     group += s[index]
                 else:
-                    group += fill  # Padding
+                    group += fill  
             result.append(group)
 
         return result
