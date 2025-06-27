@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2154-minimum-moves-to-convert-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0837-most-common-word) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2083-three-divisors) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3201-distribute-candies-among-children-ii) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Search Tree
 |  |
 | ------- |
