@@ -1,13 +1,15 @@
+from typing import List
+
 class Solution:
     def maxSubsequence(self, nums: List[int], k: int) -> List[int]:
-        if len(nums) == k:
-            return nums
-        indexed_nums = [(num, i) for i, num in enumerate(nums)]
-        print(indexed_nums)
-        indexed_nums.sort(reverse=True)
-        top_k = indexed_nums[:k]
-        print(top_k)
-        top_k.sort(key=lambda x: x[1])
-        print(top_k)
-        result = [num for num, _ in top_k]
-        return result
+        # Pair with indices
+        nums_with_indices = [(num, i) for i, num in enumerate(nums)]
+        
+        # Sort by value descending
+        nums_with_indices.sort(key=lambda x: -x[0])
+        
+        # Take top k and sort by original index
+        top_k = sorted(nums_with_indices[:k], key=lambda x: x[1])
+        
+        # Extract values
+        return [num for num, _ in top_k]
