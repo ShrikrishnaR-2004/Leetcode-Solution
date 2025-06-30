@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0747-min-cost-climbing-stairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0837-most-common-word) |
 | [1044-find-common-characters](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1044-find-common-characters) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0837-most-common-word) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
