@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2659-number-of-even-and-odd-bits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2659-number-of-even-and-odd-bits) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0233-number-of-digit-one](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Matrix
 |  |
 | ------- |
