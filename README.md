@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1656-count-good-triplets) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0837-most-common-word) |
 | [1044-find-common-characters](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1044-find-common-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0837-most-common-word) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
