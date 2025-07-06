@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1044-find-common-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -592,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1086-divisor-game) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
