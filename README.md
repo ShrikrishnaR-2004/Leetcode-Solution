@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1656-count-good-triplets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1706-min-cost-to-connect-all-points) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2058-concatenation-of-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1236-n-th-tribonacci-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
