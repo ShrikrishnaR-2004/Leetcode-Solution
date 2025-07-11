@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
+| [2479-meeting-rooms-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/3647-zero-array-transformation-iii) |
 ## Number Theory
