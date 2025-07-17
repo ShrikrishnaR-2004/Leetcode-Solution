@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0075-sort-colors) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0217-contains-duplicate) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0169-majority-element) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShrikrishnaR-2004/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
